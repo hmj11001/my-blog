@@ -9,7 +9,7 @@ function FirstPostPage() {
                 <title>First Post</title>
             </Head>
             <div>
-                <h1>First Post</h1>
+                <h1>Welcome to the blog!</h1>
                 <p>This is my first post</p>
                 <p>
                     <Link href="/">Go to Home</Link>
