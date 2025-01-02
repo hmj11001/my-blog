@@ -8,7 +8,7 @@ export default function Home() {
         <title>Home Page</title>
       </Head>
       <div>
-        <p>Welcome to my Blog!</p>
+        <h1>Welcome to my Blog!</h1>
         <p>
           Check out my{" "}
           <Link href="/first-post">
